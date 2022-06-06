@@ -1,2 +1,5 @@
 # MATLAB App Designer Files
 *.mlapp
+
+# MATLAB Autosave Files
+*.asv
