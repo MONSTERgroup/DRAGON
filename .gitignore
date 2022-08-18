@@ -1,2 +1,4 @@
 # MATLAB App Designer Files
-*.mlapp
+
+# Configs
+DRAGON.cfg
