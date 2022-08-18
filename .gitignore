@@ -1,7 +1,10 @@
 # MATLAB Files
 *.asv
 *.prj
-\DRAGON
+
 
 # Configs
 DRAGON.cfg
+
+DRAGON/
+resources/
