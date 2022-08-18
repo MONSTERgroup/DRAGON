@@ -1,4 +1,4 @@
-function startup()
+function startup_DRAGON()
 
 if ~(isdeployed || ismcc)
     addpath("source\")
