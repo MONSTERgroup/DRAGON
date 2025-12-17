@@ -1,4 +1,5 @@
-# DRAGON
+# DRAGON <img height="65" alt="Cartoon image of a DRAGON" src="https://github.com/user-attachments/assets/f3a7e5d9-60f7-4af2-9f46-7a0f35a9958a" />
+
 
 ## *D*igital *R*econstruction of *A*ncient *G*raphical *O*DFs (e*N*abling quantitative comparative analysis)
 
